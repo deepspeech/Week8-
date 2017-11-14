@@ -1,3 +1,10 @@
+
+# Developer: Nunez, Priscila
+# Assignment: HW7
+# Instructors: Niharika and Chong Li
+# Professor: Van Lent
+# Date: 10.24.17
+
 ## To fill these in:
 ## 1. Create a twitter account, or log in to your own
 ## 2. apps.twitter.com
@@ -11,7 +18,7 @@
 ## 10. Make sure this file is in the same directory as the tweepy_example file (or any other file) where you import twitter_info!
 ## 11. (Don't share this file with anyone or push it to a public GitHub repository -- it contains access to your Twitter account!)
 
-consumer_key = "frEgSG13NpTjdBC8ZCnF9CHYW"
-consumer_secret = "v5HmYIcKU7a7zP58cHGHdcC762bFeuxgsJx9XNvjlDdOMa1kn2"
-access_token = "10038722-DkM9vGZ94PDh5oJZs1s7HY4PGvskvEgUQMa4MxYPe"
-access_token_secret = "idKo3oa08xUF6EImHAj4tUnF7bXrNOsO45JWl4HszeYLs"
+consumer_key = #your own secret authentication in between ""
+consumer_secret = #your own secret authentication in between ""
+access_token = #your own secret authentication in between ""
+access_token_secret = #your own secret authentication in between ""
